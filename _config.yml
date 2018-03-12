@@ -1,4 +1,8 @@
-theme: jekyll-theme-modernist
-title: Bilha Analytics
-email: bilha.analytics@gmail.com 
-#baseurl: "/myblog/myblog"
+title:  Bilha Analytics
+email:  bilha.analytics@gmail.com 
+#baseurl: "blog"
+
+# build settingss
+markdown:  kramdown 
+theme:  jekyll-theme-modernist
+
