@@ -1,4 +1,3 @@
-## Hello World! 
+#My Blog
 
-This is a great new site.
-p.s. gh-pages rock!
+Learning space!!!
